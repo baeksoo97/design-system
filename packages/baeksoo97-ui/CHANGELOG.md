@@ -1,5 +1,11 @@
 # @baeksoo97/ui
 
+## 0.0.5
+
+### Patch Changes
+
+- tailwind css url bug
+
 ## 0.0.4
 
 ### Patch Changes
