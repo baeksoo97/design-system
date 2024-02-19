@@ -1,5 +1,11 @@
 # @baeksoo97/configs
 
+## 0.0.3
+
+### Patch Changes
+
+- tailwind production publish test
+
 ## 0.0.2
 
 ### Patch Changes

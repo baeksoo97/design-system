@@ -1,5 +1,11 @@
 # @baeksoo97/ui
 
+## 0.0.7
+
+### Patch Changes
+
+- tailwind production publish test
+
 ## 0.0.6
 
 ### Patch Changes
