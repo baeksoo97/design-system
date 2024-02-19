@@ -1,5 +1,11 @@
 # @baeksoo97/ui
 
+## 0.0.6
+
+### Patch Changes
+
+- tailwind configs applied
+
 ## 0.0.5
 
 ### Patch Changes
