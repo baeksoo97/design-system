@@ -1,7 +1,8 @@
 {
-  "name": "@design-system/eslint-config",
+  "name": "@baeksoo97/eslint-config",
   "version": "0.0.0",
   "private": true,
+  "repository": "https://github.com/baeksoo97/design-system",
   "files": [
     "library.js",
     "react.js",

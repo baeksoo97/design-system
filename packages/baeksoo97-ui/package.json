@@ -1,5 +1,5 @@
 {
-  "name": "@design-system/ui",
+  "name": "@baeksoo97/ui",
   "version": "0.0.0",
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",
@@ -17,12 +17,12 @@
     "clean": "rm -rf .turbo && rm -rf node_modules && rm -rf dist"
   },
   "devDependencies": {
-    "@design-system/eslint-config": "*",
+    "@baeksoo97/eslint-config": "*",
     "@types/react": "^18.2.46",
     "@types/react-dom": "^18.2.18",
     "eslint": "^8.56.0",
     "react": "^18.2.0",
-    "@design-system/typescript-config": "*",
+    "@baeksoo97/typescript-config": "*",
     "tsup": "^8.0.1",
     "typescript": "^5.3.3"
   }

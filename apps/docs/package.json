@@ -1,5 +1,5 @@
 {
-  "name": "@design-system/docs",
+  "name": "@baeksoo97/docs",
   "version": "0.0.0",
   "type": "module",
   "private": true,
@@ -11,12 +11,12 @@
     "lint": "eslint ./stories/*.stories.tsx --max-warnings 0"
   },
   "dependencies": {
-    "@design-system/ui": "*",
+    "@baeksoo97/ui": "*",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
   },
   "devDependencies": {
-    "@design-system/eslint-config": "*",
+    "@baeksoo97/eslint-config": "*",
     "@storybook/addon-actions": "^7.6.7",
     "@storybook/addon-docs": "^7.6.7",
     "@storybook/addon-essentials": "^7.6.7",
@@ -27,7 +27,7 @@
     "eslint": "^8.56.0",
     "serve": "^14.2.1",
     "storybook": "^7.6.7",
-    "@design-system/typescript-config": "*",
+    "@baeksoo97/typescript-config": "*",
     "typescript": "^5.3.3",
     "vite": "^5.0.10"
   }
