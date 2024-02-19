@@ -1,0 +1,11 @@
+{
+    "name": "@baeksoo97/configs",
+    "version": "0.0.0",
+    "license": "MIT",
+    "repository": "https://github.com/baeksoo97/design-system",
+    "files": [
+      "postcss.config.js",
+      "tailwind.config.js"
+    ]
+  }
+  

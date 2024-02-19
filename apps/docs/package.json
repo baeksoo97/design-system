@@ -1,7 +1,6 @@
 {
   "name": "@baeksoo97/docs",
   "version": "0.0.0",
-  "type": "module",
   "private": true,
   "scripts": {
     "dev": "storybook dev -p 6006",
@@ -17,6 +16,7 @@
   },
   "devDependencies": {
     "@baeksoo97/eslint-config": "*",
+    "@baeksoo97/typescript-config": "*",
     "@storybook/addon-actions": "^7.6.7",
     "@storybook/addon-docs": "^7.6.7",
     "@storybook/addon-essentials": "^7.6.7",
@@ -24,10 +24,11 @@
     "@storybook/react": "^7.6.7",
     "@storybook/react-vite": "^7.6.7",
     "@vitejs/plugin-react": "^4.2.1",
+    "autoprefixer": "^10.4.17",
     "eslint": "^8.56.0",
     "serve": "^14.2.1",
     "storybook": "^7.6.7",
-    "@baeksoo97/typescript-config": "*",
+    "tailwindcss": "^3.4.1",
     "typescript": "^5.3.3",
     "vite": "^5.0.10"
   }
