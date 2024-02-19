@@ -23,6 +23,15 @@ jobs:
       - name: Install Dependencies
         run: yarn
 
+      - name: Creating .npmrc
+        run: |
+          cat << EOF > "$HOME/.npmrc"
+            @design-system:registry=https://npm.pkg.github.com
+            //npm.pkg.github.com/:_authToken=$GH_REGISTRY_TOKEN
+          EOF
+        env:
+          GH_REGISTRY_TOKEN: ${{ secrets.GH_REGISTRY_TOKEN }}
+
       - name: Create Release Pull Request or Publish to npm
         id: changesets
         uses: changesets/action@v1
