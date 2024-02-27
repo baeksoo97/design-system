@@ -1,5 +1,11 @@
 # @baeksoo97/ui
 
+## 0.0.10
+
+### Patch Changes
+
+- shadcn ui
+
 ## 0.0.9
 
 ### Patch Changes
