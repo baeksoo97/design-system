@@ -1,6 +1,6 @@
 {
   "name": "@baeksoo97/ui-shadcn",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",
   "types": "./dist/index.d.ts",
@@ -10,7 +10,6 @@
   "files": [
     "dist/**"
   ],
-
   "scripts": {
     "build": "tsup src/components/ui/index.tsx --format esm,cjs --dts --external react && yarn build-tailwind",
     "dev": "tsup src/components/ui/index.tsx --format esm,cjs --watch --dts --external react",
