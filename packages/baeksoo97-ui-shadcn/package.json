@@ -55,6 +55,9 @@
     "zod": "^3.22.4"
   },
   "devDependencies": {
+    "@baeksoo97/eslint-config": "*",
+    "@baeksoo97/typescript-config": "*",
+    "@baeksoo97/configs": "*",
     "@types/node": "^20",
     "@types/react": "^18",
     "@types/react-dom": "^18",
