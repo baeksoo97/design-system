@@ -1,5 +1,11 @@
 # @baeksoo97/ui
 
+## 0.0.11
+
+### Patch Changes
+
+- tsconfig
+
 ## 0.0.10
 
 ### Patch Changes
